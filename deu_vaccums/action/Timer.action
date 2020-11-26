@@ -1,0 +1,13 @@
+# 1.Goal
+duration time_to_wait
+
+---
+# 2.Result
+duration time_elapsed
+uint32 updates_sent
+
+---
+# 3.Feedback
+duration time_elapsed
+duration time_remaining
+
